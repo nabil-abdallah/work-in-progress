@@ -1,0 +1,61 @@
+.pro {color: #9E0E40; 
+}
+
+body.bodys
+{ background-color:#777
+
+}
+
+div#forget div{
+
+display: inline-block;
+
+width: 50%
+
+}
+
+div#forget div.leftbox{
+
+}
+
+div#forget div.rightbox{
+
+}
+
+
+h2{color:#9E0E40} 
+
+
+nav.menu-nav ul li{
+
+}
+	
+
+nav.menu-nav ul li{
+	list-style-type: none;
+	display: inline-block
+
+}
+
+nav.menu-nav ul li a{
+	color: #fff;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px
+
+}
+nav.menu-nav ul li:hover a{
+	columns: red;
+	background-color: black ;
+	transition: 0.4s all ;
+}
+
+
+
+
+
+footer{
+	background-color: red;
+}
+
+
